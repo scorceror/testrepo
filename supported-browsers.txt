@@ -1,2 +1,4 @@
 Chrome
 Firefox
+Safari
+Edge
